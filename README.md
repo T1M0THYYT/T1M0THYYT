@@ -1,1 +1,3 @@
-<img src="anim.svg"></img>
+<div align="center"> 
+  <img src="anim.svg"></img> 
+</div>
