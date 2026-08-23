@@ -1,1 +1,1 @@
-<img src="animated-logo.svg"></img>
+<img src="anim.svg"></img>
